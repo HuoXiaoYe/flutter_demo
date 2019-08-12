@@ -8,7 +8,7 @@
 
 
 
-### 模仿知乎实现上滑显示导航栏，下滑隐藏导航栏(demo/zhihu.dart)
+### 模仿知乎实现上滑隐藏导航栏，下滑显示导航栏(demo/zhihu.dart)
 ![实现效果](./images/zhihu.gif)
 
 
