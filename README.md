@@ -17,3 +17,8 @@
 * ![实现效果](./images/music.gif)
 
 
+### 模仿bilibili顶部下滑出现，上滑隐藏效果(demo/bilibili.dart)
+
+* ![实现效果](./images/bilibili.gif)
+
+
